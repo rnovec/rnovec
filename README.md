@@ -15,6 +15,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 [![Raul's github stats](https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true)](https://github.com/rnovec/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec)](https://github.com/rnovec/github-readme-stats)
 
 ## Skills
 
