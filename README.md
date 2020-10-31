@@ -6,35 +6,51 @@ Community leader, open-source collaborator, and author for technical articles.
 
 I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@RaulNovelo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/rnoveloc)
- [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@RaulNovelo&logo=facebook&style=flat&color=blue)](https://www.facebook.com/raul.novelocruz)
- 
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@RaulNovelo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/rnoveloc)
+[![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@RaulNovelo&logo=facebook&style=flat&color=blue)](https://www.facebook.com/raul.novelocruz)
+
 ## Stats
 
-**Have a look on my [portfolio](http://rnoveloc.esy.es/).** 
+**Have a look on my [portfolio](http://rnoveloc.esy.es/).**
 
-[![Raul's github stats](https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true)](https://github.com/rnovec/)
+[![Raul's github stats](https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true&hide_border=true&theme=dark)](https://github.com/rnovec/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec)](https://github.com/rnovec/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&theme=dark)](https://github.com/rnovec/)
 
 ## Skills
 
-- **Languages**: `Python`, `C/C++`, `Java`, `HTML / CSS / JavaScript`
+### Frameworks BackEnd / FrontEnd
 
-- **Databases**: `MySQL`, `sqlite3`, `PostgreSQL`, `MongoDB`
+| [<img src="assets/nodejs.png" alt="node logo" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" alt="django logo" width="70">]() | [<img src="assets/djrest.png" alt="drf logo" width="70">]() | [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/react.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/nuxt.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/buefy.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/electron.png" alt="vue logo" width="40">](https://nuxtjs.org/) |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 
-- **Frameworks**: `Django`, `Vue.js`, `Node.js`, `Quasar`, `Express.js`
 
-- **Tools**: `Docker`, `Git`, `SCRUM`
+### Programming Languages :computer:
 
-- **Competitive Programming**
-    
-- **Algorithms** , **Data-structures**, **Design Patterns**
+| [<img src="assets/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="assets/java.png" alt="ts logo" width="30">]() | [<img src="assets/cpp.png" alt="cpp logo" width="40">](https://isocpp.org/) | [<img src="assets/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/) |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 
-- **Operating System**: `Linux`, `Windows`
+
+### Databases :floppy_disk:
+
+| [<img src="assets/postgres.svg" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="assets/mongo.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) | [<img src="assets/sqlite.png" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+
+
+### Tools :hammer_and_wrench:
+
+| [<img src="assets/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/docker.png" alt="docker logo" width="40">](https://www.docker.com/) |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+
+
+### Cloud
+
+| [<img src="assets/aws.png" alt="aws logo" width="50">](https://aws.amazon.com/) |
+| ------------------------------------------------------------------------------- |
+
 
 ## Facts
-    
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **[@aaaimx](https://www.aaaimx.org) as Software Leader & mentor of the community members**
@@ -42,12 +58,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: **Open-source projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 🤔 I’m looking for: **help with jobs/intern.**
-- 📫 How to reach me: **Connect with me on [Facebook](https://www.facebook.com/raul.novelocruz)** / **[Linkedin](https://www.linkedin.com/in/rnoveloc)**  
+- 📫 How to reach me: **Connect with me on [Facebook](https://www.facebook.com/raul.novelocruz)** / **[Linkedin](https://www.linkedin.com/in/rnoveloc)**
 - ⚡ Fun fact: **I love cold coffee. 😄**
 
-
 ### :handshake: Always happy to help!
-
 
 ### :hugs: Thank You!
 
