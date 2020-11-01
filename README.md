@@ -39,16 +39,16 @@ I am also looking to contribute to open-source projects to improve my skills and
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 
-### Tools :hammer_and_wrench:
+### Tools & other technologies :hammer_and_wrench:
 
-| [<img src="assets/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/docker.png" alt="docker logo" width="40">](https://www.docker.com/) |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [<img src="assets/git.png" alt="git logo" width="40">](https://git-scm.com/) | [<img src="assets/vscode.png" width="40">](https://code.visualstudio.com/) | [<img src="assets/docker.png" alt="docker logo" width="40">](https://www.docker.com/) | [<img src="assets/scrapy.png" alt="scrapy logo" width="40">](https://scrapy.org/) |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 
 
 ### Cloud :cloud:
 
-| [<img src="assets/aws.png" alt="aws logo" width="50">](https://aws.amazon.com/) |
-| ------------------------------------------------------------------------------- |
+| [<img src="assets/aws.png" alt="aws logo" width="50">](https://aws.amazon.com/) | [<img src="assets/digitalocean.jpeg" alt="do logo" width="50">](https://www.digitalocean.com/) | [<img src="assets/heroku.jpg" alt="do logo" width="50">](https://www.heroku.com/) |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 
 ## Facts
