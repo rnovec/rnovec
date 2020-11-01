@@ -21,7 +21,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 ## Skills
 
-### Frameworks BackEnd / FrontEnd
+### Frameworks BackEnd / FrontEnd :package:
 
 | [<img src="assets/nodejs.png" alt="node logo" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" alt="django logo" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" alt="drf logo" width="70">](https://www.django-rest-framework.org/) | [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/react.png" alt="react logo" width="40">](https://es.reactjs.org/) | [<img src="assets/nuxt.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/buefy.png" alt="vue logo" width="40">](https://buefy.org/) | [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 
-### Cloud
+### Cloud :cloud:
 
 | [<img src="assets/aws.png" alt="aws logo" width="50">](https://aws.amazon.com/) |
 | ------------------------------------------------------------------------------- |
