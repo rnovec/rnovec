@@ -12,17 +12,19 @@ I am also looking to contribute to open-source projects to improve my skills and
 ## Stats
 
 **Have a look on my [portfolio](http://rnoveloc.esy.es/).**
-
-[![Raul's github stats](https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true&hide_border=true&theme=dark)](https://github.com/rnovec/)
+<nobr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&theme=dark)](https://github.com/rnovec/)
+[![Raul's github stats](https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true&hide_border=true&theme=dark)](https://github.com/rnovec/)
+
+</nobr>
 
 ## Skills
 
 ### Frameworks BackEnd / FrontEnd
 
 | [<img src="assets/nodejs.png" alt="node logo" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" alt="django logo" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" alt="drf logo" width="70">](https://www.django-rest-framework.org/) | [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/react.png" alt="react logo" width="40">](https://es.reactjs.org/) | [<img src="assets/nuxt.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/buefy.png" alt="vue logo" width="40">](https://buefy.org/) | [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 
 ### Programming Languages :computer:
