@@ -21,10 +21,16 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 ## Skills
 
-### Frameworks BackEnd / FrontEnd :package:
+### Frameworks FrontEnd :package:
 
-| [<img src="assets/nodejs.png" alt="node logo" width="70">](https://nodejs.org/es/) | [<img src="assets/django.png" alt="django logo" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" alt="drf logo" width="70">](https://www.django-rest-framework.org/) | [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/nuxt.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/react.png" alt="react logo" width="40">](https://es.reactjs.org/) | [<img src="assets/redux.png" alt="redux logo" width="40">](https://redux.js.org/) | [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/nuxt.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/react.png" alt="react logo" width="40">](https://es.reactjs.org/) | [<img src="assets/redux.png" alt="redux logo" width="40">](https://redux.js.org/) | [<img src="assets/react-native.svg" alt="react-native logo" width="40">](https://reactnative.dev/) | [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+
+
+### Frameworks BackEnd :package:
+
+| [<img src="assets/nodejs.png" alt="node logo" width="70">](https://nodejs.org/es/) | [<img src="assets/hapi.png" alt="node logo" width="70">](https://hapi.dev/) | [<img src="assets/django.png" alt="django logo" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" alt="drf logo" width="70">](https://www.django-rest-framework.org/) |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 
 
 ### Programming Languages :computer:
