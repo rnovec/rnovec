@@ -11,7 +11,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 ## Stats
 
-**Have a look on my [portfolio](http://rnoveloc.esy.es/).**
+**Have a look on my [portfolio](https://rnovec.github.io/).**
 <nobr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&theme=dark)](https://github.com/rnovec/)
@@ -24,7 +24,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 ### Frameworks FrontEnd :package:
 
 | [<img src="assets/vue.png" alt="vue logo" width="40">](https://vuejs.org/) | [<img src="assets/nuxt.png" alt="vue logo" width="40">](https://nuxtjs.org/) | [<img src="assets/react.png" alt="react logo" width="40">](https://es.reactjs.org/) | [<img src="assets/redux.png" alt="redux logo" width="40">](https://redux.js.org/) | [<img src="assets/react-native.svg" alt="react-native logo" width="40">](https://reactnative.dev/) | [<img src="assets/electron.png" alt="electron logo" width="40">](https://www.electronjs.org//) |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 
 ### Frameworks BackEnd :package:
