@@ -13,11 +13,14 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 **Have a look on my [portfolio](https://rnovec.github.io/).**
 <nobr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&theme=dark)](https://github.com/rnovec/)
-[![Raul's github stats](https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true&hide_border=true&theme=dark)](https://github.com/rnovec/)
-
-</nobr>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  
+  <img src ="https://github-readme-stats.vercel.app/api?username=rnovec&show_icons=true&count_private=true&theme=dark&hide_border=true">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rnovec&theme=dark&hide_border=true&b">
+  <br>
+  <br>
+</p>
 
 ## Skills
 
