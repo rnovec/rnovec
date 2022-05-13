@@ -64,8 +64,8 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: **[@aaaimx](https://www.aaaimx.org) as Software Leader & mentor of the community members**
-- 🌱 I’m currently learning: **Python/Django, MEVN Stack, VueJS to develop Full-Stack web applications**
+- 🔭 I’m currently working on: **[@LhT](https://lighthousetech.io/) as BackEnd Software Engineer**
+- 🌱 I’m currently learning: **Python/Django, AWS, MEVN Stack, VueJS to develop Full-Stack web applications**
 - 👯 I’m looking to collaborate on: **Open-source projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 🤔 I’m looking for: **help with jobs/intern.**
