@@ -51,8 +51,13 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 ## Cloud :cloud
 
-| [<img src="assets/aws.png" title="aws" alt="aws" width="50">](https://aws.amazon.com/) | [<img src="assets/digitalocean.jpeg" title="do" alt="do" width="50">](https://www.digitalocean.com/) | [<img src="assets/heroku.jpg" title="do" alt="do" width="50">](https://www.heroku.com/) |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [<img src="assets/aws.png" title="aws" alt="aws" width="50">](https://aws.amazon.com/) | [<img src="assets/digitalocean.jpeg" title="do" alt="do" width="50">](https://www.digitalocean.com/) | [<img src="assets/heroku.jpg" title="do" alt="do" width="50">](https://www.heroku.com/)| [<img src="assets/serverless.png" title="serverless" alt="serverless" width="50">](https://www.serverless.com/) |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+
+## AI :robot
+
+| [<img src="assets/aws.png" title="aws" alt="aws" width="50">](https://aws.amazon.com/) | [<img src="assets/digitalocean.jpeg" title="do" alt="do" width="50">](https://www.digitalocean.com/) | [<img src="assets/heroku.jpg" title="do" alt="do" width="50">](https://www.heroku.com/)| [<img src="assets/serverless.png" title="serverless" alt="serverless" width="50">](https://www.serverless.com/) |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 
 # Facts
 
