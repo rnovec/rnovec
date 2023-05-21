@@ -11,7 +11,6 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 # Stats
 
-**Have a look on my [portfolio](https://rnovec.github.io/).**
 <nobr>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=jupyter%20notebook,tex,css,php">
