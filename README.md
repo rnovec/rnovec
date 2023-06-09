@@ -9,8 +9,9 @@ I am also looking to contribute to open-source projects to improve my skills and
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@RaulNovelo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/rnoveloc)
 [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@RaulNovelo&logo=facebook&style=flat&color=blue)](https://www.facebook.com/raul.novelocruz)
 
-# Stats
+<!---
 
+# Stats
 <nobr>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rnovec&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -19,6 +20,8 @@ I am also looking to contribute to open-source projects to improve my skills and
   <br>
   <br>
 </p>
+-->
+
 
 # Skills
 
